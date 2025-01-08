@@ -1,0 +1,6 @@
+/home/global/DevopsTest/usrformpro/src/main/java/net/javaguides/springboot/repository/EmployeeRepository.java
+/home/global/DevopsTest/usrformpro/src/main/java/net/javaguides/springboot/service/EmployeeServiceImpl.java
+/home/global/DevopsTest/usrformpro/src/main/java/net/javaguides/springboot/SpringbootThymeleafCrudWebAppApplication.java
+/home/global/DevopsTest/usrformpro/src/main/java/net/javaguides/springboot/model/Employee.java
+/home/global/DevopsTest/usrformpro/src/main/java/net/javaguides/springboot/service/EmployeeService.java
+/home/global/DevopsTest/usrformpro/src/main/java/net/javaguides/springboot/controller/EmployeeController.java
